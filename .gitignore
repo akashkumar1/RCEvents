@@ -1,3 +1,11 @@
+target/
+.idea
+*.iws
+*.iml
+*.ipr
+*.iml
+
+
 # Compiled class file
 *.class
 
